@@ -37,5 +37,4 @@ Dummy data needs a name and some random stats.
 The view should consist of 2 vue components: 
 
 First component is to select multiple categories and call the controller. Use the vue-select library for the multi select.
-Second component is to show the selected data in a table. Show also the summary of all stats as the last row of the table.
-For orientation use the following screenshot:
+Second component is to show the selected data in a table. 
