@@ -1,4 +1,5 @@
 # laravel-project
+Laravel project with VueJS integration 
 
 Project setup
 ---------------------
