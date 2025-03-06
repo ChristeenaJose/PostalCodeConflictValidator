@@ -48,19 +48,22 @@ This project aims to detect any conflicts in sales areas based on postal code de
     ```bash
     cp .env.example .env
     ```
-4. **Generate the application key**
+   - Make sure your .env file has the correct database configuration.(DB_DATABASE=laraveltasklocalhero)
+   - If the database laraveltasklocalhero does not exist, create it manually:
+   
+5. **Generate the application key**
     ```bash
     php artisan key:generate
     ```
-5. **Set up the frontend Install Node.js dependencies:**
+6. **Set up the frontend Install Node.js dependencies:**
     ```bash
     npm install
     ```
-6. **Run migrations (if using database)**
+7. **Run migrations (if using database)**
     ```bash
     php artisan migrate
     ```
-7. **Run the application**
+8. **Run the application**
     - Start the Laravel development server:
     ```bash
     php artisan serve
