@@ -36,7 +36,7 @@ This project aims to detect any conflicts in sales areas based on postal code de
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/postalcodeconflictvalidator.git
+   git clone https://github.com/ChristeenaJose/PostalCodeConflictValidator.git
    cd postalcodeconflictvalidator
    ```
 
