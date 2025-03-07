@@ -99,21 +99,6 @@ php artisan test
 
 
 
-# laravel-project
-Laravel project with VueJS integration 
-
-Project setup
----------------------
- 1, Download Files
- 
- 2, If you face any error when you load public directory, execute "composer update" on your cmd box
- 
- 3, Create DB (.env file)(DB Name : laraveltasklocalhero)
- 
- 4, Migrate DB
- 
- 5, Then open, you can see! 
-
 
 Coding Task PHP/JS
 ----------------------------
